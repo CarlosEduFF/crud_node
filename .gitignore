@@ -1,0 +1,9 @@
+# Ignorar dependências
+node_modules/
+
+# Ignorar arquivos de credenciais do Firebase
+firebase/*.json
+
+# Ignorar arquivos do sistema
+.DS_Store
+.env
